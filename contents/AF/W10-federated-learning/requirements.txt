@@ -1,0 +1,5 @@
+flwr
+numpy
+torch
+torchvision
+ipykernel
